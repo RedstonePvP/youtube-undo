@@ -1,1 +1,2 @@
 # Youtbe Undo
+Youtube undo is a simple chrome extension that adds an undo button to the youtube video player allowing you to undo big uninted skips in a youtube video. When it is available on the chrome website the link will be added here
