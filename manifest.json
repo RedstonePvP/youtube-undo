@@ -9,10 +9,7 @@
         "128": "icon.png"
     },
     "description": "Undo your last missclick on a youtube video",
-    "permissions": [
-        "activeTab",
-        "scripting"
-    ],
+    "permissions": [],
     "content_scripts": [
         {
             "matches": ["<all_urls>"],
